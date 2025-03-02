@@ -43,4 +43,3 @@ To use the code, clone the repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/yourusername/EBHI-Segmentation.git
 cd EBHI-Segmentation
-pip install -r requirements.txt
