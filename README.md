@@ -1,5 +1,4 @@
-# Colorectal_segcal
-# Histopathology Image Segmentation with EBHI-Seg Dataset
+# Histopathology Image Segmentation and Classification with EBHI-Seg Dataset
 
 ## Overview
 
