@@ -4,7 +4,8 @@
 
 ## Overview
 
-This project is focused on performing **image segmentation** on histopathology images from the **EBHI-Seg dataset**, using advanced machine learning models. The dataset contains **4,456 histopathology images**, along with their corresponding **ground truth images**, categorized into six different types of differentiation stages:  
+This project is focused on performing **simultaneous image segmentation and classification** on histopathology images from the **EBHI-Seg dataset**, using advanced deep learning models. The dataset contains **4,456 histopathology images**, along with their corresponding **ground truth images**, categorized into six different types of differentiation stages:  
+
 - Normal  
 - Polyp  
 - Low-grade intraepithelial neoplasia  
@@ -12,7 +13,7 @@ This project is focused on performing **image segmentation** on histopathology i
 - Serrated adenoma  
 - Adenocarcinoma  
 
-The primary task of this project is to segment **regions of interest** in these histopathology images, providing insights into different **differentiation stages** for **colon cancer research**.
+The primary objective of this project is to **segment regions of interest** in these histopathology images while **classifying them into their respective differentiation stages**. This dual-task approach enables a more comprehensive analysis of **colon cancer histopathology**, aiding in automated diagnosis and medical research. The segmentation model isolates the affected regions, while the classification head predicts the disease stage, providing valuable insights for clinical decision-making.
 
 ## Dataset
 
