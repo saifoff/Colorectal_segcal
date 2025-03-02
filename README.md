@@ -1,5 +1,7 @@
 # Histopathology Image Segmentation and Classification with EBHI-Seg Dataset
 
+![Outcome](ebhi_visualization.png)
+
 ## Overview
 
 This project is focused on performing **image segmentation** on histopathology images from the **EBHI-Seg dataset**, using advanced machine learning models. The dataset contains **4,456 histopathology images**, along with their corresponding **ground truth images**, categorized into six different types of differentiation stages:  
