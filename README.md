@@ -1,5 +1,6 @@
 # Histopathology Image Segmentation and Classification with EBHI-Seg Dataset
 
+## Outcome
 ![Outcome](ebhi_visualization.png)
 
 ## Overview
