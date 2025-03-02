@@ -27,9 +27,6 @@ The **EBHI-Seg dataset** contains 2,228 **histopathology section images** and 2,
 - **Serrated adenoma**: 58 images and 58 ground truth images
 - **Adenocarcinoma**: 795 images and 795 ground truth images
 
-### Sampling Method:
-The data was collected through **intestinal biopsy**, and images were processed under **ethical approval** from the Cancer Hospital of China Medical University (Research Project Ethics Certification No. 202229).
-
 ## Model
 
 The **UnetPlusPlusWithClassification** model is used for this project, integrating the **Unet++ architecture** for image segmentation and a **classification head** for multi-class classification. The model is designed to segment and classify histopathology images simultaneously. 
